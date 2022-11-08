@@ -6497,11 +6497,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\gfmaurila\\poc\\API_Serilog-MongoDB\\API_Serilog-MongoDB\\API_Serilog-MongoDB.csproj",
+      "projectUniqueName": "C:\\Work\\gfmaurila\\poc\\API_Serilog-MongoDB-5\\API_Serilog-MongoDB\\API_Serilog-MongoDB.csproj",
       "projectName": "API_Serilog-MongoDB",
-      "projectPath": "C:\\Work\\gfmaurila\\poc\\API_Serilog-MongoDB\\API_Serilog-MongoDB\\API_Serilog-MongoDB.csproj",
+      "projectPath": "C:\\Work\\gfmaurila\\poc\\API_Serilog-MongoDB-5\\API_Serilog-MongoDB\\API_Serilog-MongoDB.csproj",
       "packagesPath": "C:\\Users\\gfmau\\.nuget\\packages\\",
-      "outputPath": "C:\\Work\\gfmaurila\\poc\\API_Serilog-MongoDB\\API_Serilog-MongoDB\\obj\\",
+      "outputPath": "C:\\Work\\gfmaurila\\poc\\API_Serilog-MongoDB-5\\API_Serilog-MongoDB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

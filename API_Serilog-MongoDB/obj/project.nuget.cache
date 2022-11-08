@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j7czoye82f4OfX1WwbdFJTP8uE70IibShKC5bUJ1HjRumlI4ejNiFn3n/BtAuKBYLsqgsgE1RvZB6/oQeGAKPA==",
+  "dgSpecHash": "Krm0dw6dX2uojzyKZ5mwtdTY00KQN2uyD34fJZvZ8Y1lz3IsUB4X24vrrY3MKRI01K5UkA/6xXLEMy8XuoU8+Q==",
   "success": true,
-  "projectFilePath": "C:\\Work\\gfmaurila\\poc\\API_Serilog-MongoDB\\API_Serilog-MongoDB\\API_Serilog-MongoDB.csproj",
+  "projectFilePath": "C:\\Work\\gfmaurila\\poc\\API_Serilog-MongoDB-5\\API_Serilog-MongoDB\\API_Serilog-MongoDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gfmau\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\gfmau\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
